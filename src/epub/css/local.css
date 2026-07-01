@@ -42,3 +42,22 @@
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
+
+/* Letters */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+/* End of Letters */
