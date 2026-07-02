@@ -24,6 +24,21 @@
 }
 /* End of chapter 4 tombstone wording */
 
+/* Beginning of chapter 11 portal inscription */
+#chapter-11 div{
+	margin: 1em;
+	text-align: center;
+}
+
+#chapter-11 div span{
+	padding: 2em;
+}
+
+#chapter-11 div p{
+	text-indent: 0;
+}
+/* Ending of chapter 11 portal inscription */
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
