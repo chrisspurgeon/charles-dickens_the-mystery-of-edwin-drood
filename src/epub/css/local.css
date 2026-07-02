@@ -52,6 +52,20 @@
 	text-indent: 0;
 }
 
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -60,4 +74,5 @@ footer{
 p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
+
 /* End of Letters */
