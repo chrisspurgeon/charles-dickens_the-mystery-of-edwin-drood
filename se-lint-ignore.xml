@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore code="s-046">
+			<reason>Using div with span tags to format the chapter 4 tombstone inscription.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
