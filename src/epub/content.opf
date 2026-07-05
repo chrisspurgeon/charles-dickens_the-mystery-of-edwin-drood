@@ -53,51 +53,60 @@
 		<dc:subject id="subject-8">Mystery fiction</dc:subject>
 		<meta property="authority" refines="#subject-8">LCHS</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A young man mysteriously vanishes, and all the suspects are discovered to be secretly in love with the missing man’s fiancé.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Choirmaster John Jasper has two secrets⁠—an addiction to opium, and a burning love for Rosa, the fiancée of his nephew, Edwin Drood. When Edwin vanishes without a trace one night, his uncle becomes just one of the suspects in Edwin’s disappearance; it turns out several other residents of the town of Cloisterham also want Rosa’s affections. Who’s the real murderer? We’ll never know⁠—author &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; died with this, his final novel, only half finished, and he left no notes outlining how the story would end. (Dickens scholars have looked through his papers and correspondence for more than a century, hoping to find the answer).&lt;/p&gt;
+			&lt;p&gt;Despite the lack of a standard “whodunit” conclusion, &lt;em&gt;The Mystery of Edwin Drood&lt;/em&gt; has been popular with mystery fans ever since it was first published in &lt;time&gt;1870&lt;/time&gt;. It’s one of the &lt;a href="https://standardebooks.org/collections/mystery-writers-of-america-top-100-mysteries-of-all-time"&gt;Mystery Writers of America’s Top 100 Mysteries of All Time&lt;/a&gt;, and many authors⁠—both professional and amateur⁠—have tried to craft an ending.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/564</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/mysteryofedwindr00dickrich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_the-mystery-of-edwin-drood</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Charles John Huffam Dickens</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Dickens</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2012115982</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Casper David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79059754</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+
+
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Casper David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79059754</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Iona Vaughan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Vaughan, Iona</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Pat McCoy</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">McCoy, Pat</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Mark Akrigg</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Akrigg, Mark</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Spurgeon, Chris</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="writer-of-foreword">Anonymous</dc:contributor>
+		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wfw</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
