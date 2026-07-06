@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-4.xhtml">
 		<ignore code="s-046">
-			<reason>Using div with span tags to format the chapter 4 tombstone inscription.</reason>
+			<reason>Using blockquote with span tags but no semantic tagging, in order to format the chapter 4 tombstone inscription.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-10.xhtml">
@@ -13,7 +13,7 @@
 	</file>
 	<file path="chapter-11.xhtml">
 		<ignore code="s-046">
-			<reason>Using div with span tags to format the chapter 11 church inscription.</reason>
+			<reason>Using blockquote with span tags but no semantic tagging, to format the chapter 11 church inscription.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
