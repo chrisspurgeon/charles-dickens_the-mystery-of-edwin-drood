@@ -105,6 +105,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">47</meta>
+	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
