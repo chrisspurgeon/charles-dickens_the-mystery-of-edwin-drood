@@ -100,6 +100,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="writer-of-foreword">Anonymous</dc:contributor>
 		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wfw</meta>
+		<dc:contributor id="writer-of-supplementary-textual-content">Anonymous</dc:contributor>
+		<meta property="role" refines="#writer-of-supplementary-textual-content" scheme="marc:relators">wst</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta id="collection-2" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
