@@ -62,7 +62,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/564</dc:source>
 		<dc:source>https://archive.org/details/mysteryofedwindr00dickrich</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.225977/page/n9/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.225977</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood</meta>
