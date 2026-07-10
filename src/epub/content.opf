@@ -62,6 +62,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/564</dc:source>
 		<dc:source>https://archive.org/details/mysteryofedwindr00dickrich</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.225977/page/n9/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood</meta>
@@ -110,6 +111,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">47</meta>
+		<meta property="se:production-notes">In the archive.org sources listed above, the first listing is the source for the foreword and main content of the book, the second listing is the source for the appendix discovered chapter.</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
