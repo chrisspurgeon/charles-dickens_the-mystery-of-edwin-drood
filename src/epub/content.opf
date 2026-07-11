@@ -81,6 +81,7 @@
 		<dc:contributor id="editor-1">Iona Vaughan</dc:contributor>
 		<meta property="file-as" refines="#editor-1">Chapman &amp; Hall</meta>
 		<meta property="role" refines="#editor-1" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="transcriber-1">Iona Vaughan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Vaughan, Iona</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
